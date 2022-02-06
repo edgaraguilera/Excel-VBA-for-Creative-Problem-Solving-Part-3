@@ -7,4 +7,6 @@ Week2 assignment: Geography toolbox is an calculator of distances (line) between
 
 Week3 assignment: Ultimate Organizer is an organizer for DataBase in a sheet in excel. You can add/delete categories (columns), records (rows). Search and edit records by fields.
 
-Week4 assignment: Montecarlo
+Week4 assignment: Monte Carlo simulations. First with a cookies recipe to calculate profit based on costs of ingredients. Second profitability of new business/investment based on some financial variables.
+
+Note that I am using Excel 2010. In code for creating the histogram there are 2 methods that could not be used in Excel 2010 like used in the starter file (see forum for more info). My code includes code for 2010 and for later versions but maybe you need to comment one or the other to avoid compile error and to make it work.
